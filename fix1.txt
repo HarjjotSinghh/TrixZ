@@ -1,0 +1,14 @@
+Commands fixed - 
+t-leave:
+Now you can leave even if you are not in the same voice channel as the bot.
+t-giveaway:
+Fixed the error where the bot could also win. 😂
+t-wiki:
+Fixed the `Cogs.Picklist has not attribute pick()` error.
+t-top:
+Fixed the `list index out of range` error.
+
+
+Features Fixed-
+logging:
+a really annoying bug was fixed, which tried to keep creating the webhook, even if the max amount of webhooks were reached.

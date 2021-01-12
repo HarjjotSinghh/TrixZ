@@ -1,0 +1,5 @@
+embed command images fix
+
+general setup command-
+setup everything (welcome, levels, automod, membercount, logs, invites)
+
